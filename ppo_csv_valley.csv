@@ -1,0 +1,15 @@
+strategy,ppo_csv
+base_$/kWh,0.28
+spread_$/kWh,0.18
+period_s,120.0
+cooldown_s,30.0
+
+station_id,utilization_rate,revenue_$
+CS_0,0.0166,0.24
+CS_1,0.0194,0.28
+CS_2,0.0183,0.26
+CS_3,0.0191,0.28
+
+TOTAL_revenue_$,1.06
+PAR_peak_to_avg_power,27.2491
+total_steps,3665

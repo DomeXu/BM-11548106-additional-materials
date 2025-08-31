@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional><chargingStation id="CS_0" lane="A1B1_0" startPos="20.0" endPos="74.2" power="50" efficiency="0.9" chargeInTransit="false" /><chargingStation id="CS_1" lane="B0B1_0" startPos="20.0" endPos="74.2" power="50" efficiency="0.9" chargeInTransit="false" /><chargingStation id="CS_2" lane="B2B1_0" startPos="20.0" endPos="74.2" power="50" efficiency="0.9" chargeInTransit="false" /><chargingStation id="CS_3" lane="C1B1_0" startPos="20.0" endPos="74.2" power="50" efficiency="0.9" chargeInTransit="false" /></additional>

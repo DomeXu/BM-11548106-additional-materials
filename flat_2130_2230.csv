@@ -1,0 +1,12 @@
+strategy,flat
+cooldown_s,30.0
+
+station_id,utilization_rate,revenue_$
+CS_0,0.0186,0.28
+CS_1,0.0167,0.25
+CS_2,0.0199,0.3
+CS_3,0.0183,0.28
+
+TOTAL_revenue_$,1.12
+PAR_peak_to_avg_power,27.2342
+total_steps,3663

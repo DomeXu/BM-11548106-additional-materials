@@ -1,0 +1,15 @@
+strategy,tou
+tou_schedule,"peak 0.40 (7-10,17-20); off-peak 0.20 (22-6); else 0.30"
+start_h,21
+start_min,30
+cooldown_s,30.0
+
+station_id,utilization_rate,revenue_$
+CS_0,0.0186,0.25
+CS_1,0.0175,0.21
+CS_2,0.0216,0.28
+CS_3,0.0205,0.26
+
+TOTAL_revenue_$,0.99
+PAR_peak_to_avg_power,25.6084
+total_steps,3662
